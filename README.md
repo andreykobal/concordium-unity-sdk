@@ -157,23 +157,4 @@ Methods:
 
 **Roadmap:**
 
-Initial SDK Development:
-- Milestone: Initial SDK Development (ConcordiumSDK Class)
-- ETA: Q3 2023
-- Responsible: Development Team
-- Price (in $): 15,000
-
-SDK Class Development:
-- Milestone: AccountManager Class
-- ETA: Q4 2023
-- Responsible: Development Team
-- Price (in $): 8,000
-
-- Milestone: Account Class
-- ETA: Q4 2023
-- Responsible: Development Team
-- Price (in $): 6,000
-
-- Milestone: TransactionManager Class
-- ETA: Q4 2023
-- Responsible: Development Team
+Todo
